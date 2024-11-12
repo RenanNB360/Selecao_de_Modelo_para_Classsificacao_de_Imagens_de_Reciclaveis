@@ -1,0 +1,1 @@
+# Selecao_de_Modelo_para_Classsificacao_de_Imagens_de_Reciclaveis
